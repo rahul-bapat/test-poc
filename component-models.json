@@ -145,6 +145,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "text-post",
+        "value": "",
+        "label": "Text-post",
+        "valueType": "string"
       }
     ]
   },
